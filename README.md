@@ -14,11 +14,8 @@ I build automation that combines **UiPath** with **LLM-based decisioning**: the 
 | **Python & data** | Python, pandas, NumPy, Streamlit, pytest |
 | **Practices** | Guardrails, evaluation of AI outputs, monitoring, human-in-the-loop design |
 
-## 🚀 Featured project
-
-| Project | What it does |
-|---|---|
-| [**NL Data Analyst Agent**](https://github.com/krish21venkat-skills/nl-data-analyst-agent) | Ask questions about a CSV in plain English. A local LLM (Ollama) writes pandas/NumPy code, runs it in a sandbox with a timeout, repairs its own errors, and is scored with an evaluation benchmark. |
+## 📂 My repositories
+Browse my hands-on practice projects here: **[all repositories](https://github.com/krish21venkat-skills?tab=repositories)**
 
 ## 🎓 Certifications
 - Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103)
